@@ -1,18 +1,19 @@
+
+
+
+<h1 align="center">Thiago Barberino Gomes</h1> <br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thiagobgomes&show_icons=true&theme=radical" />
+  <img style="margin-left: 10px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+</div><br>
+
 <p align="center">
  • <a href="#QuemSouEu">Sobre mim</a> 
  •<a href="#Formacao"> Formação Academica</a> 
  •<a href="#HabilidadesCursos"> Habilidades e Cursos</a>
  •<a href="#Frameworks"> Frameworks</a>
 </p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagobgomes&show_icons=true&theme=radical) <br>
-
-<div float="right">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 
 <div id="QuemSouEu">
   <h1>Sobre Mim</h1> 
