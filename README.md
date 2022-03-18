@@ -3,8 +3,6 @@
  •<a href="#Formacao"> Formação Academica</a> 
  •<a href="#HabilidadesCursos"> Habilidades e Cursos</a>
  •<a href="#Frameworks"> Frameworks</a>
- •<a href="#licenc-a"> Licença</a>
- •<a href="#autor"> Autor</a>
 </p>
 
 <div id="QuemSouEu">
