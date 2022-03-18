@@ -5,6 +5,11 @@
  •<a href="#Frameworks"> Frameworks</a>
 </p>
 
+![Thiago Barberino's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
+
 <div id="QuemSouEu">
   <h1>Sobre Mim</h1> 
   <p>
