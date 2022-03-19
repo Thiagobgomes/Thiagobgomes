@@ -59,7 +59,7 @@ Conclusão: 2021
   <h1>Frameworks de cada linguagem que utilizo</h1>
   
   -	*Python:* Django, Selenium, Pyqt6 (Interface Gráfica) e Pandas 
--	*Javascript:* Angular12 e Electron (Interface Gráfica)
+-	*Javascript:* Angular e Electron (Interface Gráfica)
 -	*Java:* JDBC
 
 </div> 
