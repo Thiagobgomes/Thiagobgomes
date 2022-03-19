@@ -5,7 +5,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thiagobgomes&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img align="center" src=""/>
 </div><br>
 
 <p align="center">
