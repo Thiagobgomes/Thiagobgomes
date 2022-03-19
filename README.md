@@ -1,4 +1,3 @@
-<h1 align="center">Thiago Barberino Gomes</h1> <br>
 
 
 <div align="center" style="display: flex">
