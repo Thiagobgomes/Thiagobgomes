@@ -46,6 +46,7 @@ Conclusão: 2021
   
 - Linguagem de programação em Python
 - Linguagem de programação em JavaScript
+- Linguagem de programação em TypeScript
 - Linguagem de programação em Java
 - Aplicações Web - HTML, CSS e JS
 -	Pacote Office;
