@@ -61,7 +61,7 @@ Conclusão: 2021
   
   -	*Python:* Django, Selenium, Pyqt6 (Interface Gráfica) e Pandas 
 -	*Javascript:* Angular e Electron (Interface Gráfica)
--	*Java:* JDBC
+-	*Java:* JDBC, SpringBoot
 
 </div> 
 
